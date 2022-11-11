@@ -6,6 +6,6 @@ Nesta prática você deve implementar uma página de memes chamada 9CAMP! Para i
 Sinta-se livre para colocar o conteúdo e cores que quiser na página! Somente siga os requisitos e layout proposto.
 # Requisitos
 
-- [ ]  Utilize CSS externo para incluir tanto o Reset CSS quanto seu arquivo CSS;
-- [ ]  Utilize classes para identificar os elementos.
+- [X]  Utilize CSS externo para incluir tanto o Reset CSS quanto seu arquivo CSS;
+- [X]  Utilize classes para identificar os elementos.
 # 9CAMP
