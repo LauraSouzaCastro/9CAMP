@@ -8,4 +8,3 @@ Sinta-se livre para colocar o conteúdo e cores que quiser na página! Somente s
 
 - [X]  Utilize CSS externo para incluir tanto o Reset CSS quanto seu arquivo CSS;
 - [X]  Utilize classes para identificar os elementos.
-# 9CAMP
